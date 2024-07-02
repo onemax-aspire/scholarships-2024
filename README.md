@@ -337,6 +337,6 @@ Exiting platform.
 
 
 ### Future Goals and Enhancements:
-**Data Management Optimization**: Future updates will focus on enhancing data management capabilities. This includes implementing robust features for saving and loading user data, ensuring seamless access to preferences, booking histories, and user settings. These improvements aim to streamline user interactions and provide a more personalized experience.
+- **Data Management Optimization**: Future updates will focus on enhancing data management capabilities. This includes implementing robust features for saving and loading user data, ensuring seamless access to preferences, booking histories, and user settings. These improvements aim to streamline user interactions and provide a more personalized experience.
 
-**Graphical User Interface (GUI) Development**: Plans are underway to develop an intuitive graphical user interface (GUI) that enhances user navigation and interaction. The GUI will feature user-friendly designs, intuitive controls, and visual enhancements to improve overall usability. This initiative aims to elevate user satisfaction by simplifying access to platform functionalities.
+- **Graphical User Interface (GUI) Development**: Plans are underway to develop an intuitive graphical user interface (GUI) that enhances user navigation and interaction. The GUI will feature user-friendly designs, intuitive controls, and visual enhancements to improve overall usability. This initiative aims to elevate user satisfaction by simplifying access to platform functionalities.
