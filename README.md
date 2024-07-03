@@ -1,5 +1,4 @@
-# scholarships-2024
-Project Name: Max Scholarships Coffee Chat Simulation
+# Project Name: Max Scholarships Coffee Chat Simulation
 Overview
 This project implements an algorithm in Python to facilitate weekly coffee chats for Aspiring Professionals and Senior Executives on a platform. The algorithm considers various factors such as industry alignment, the interests of Aspiring Professionals, and the availability of Senior Executives.
 
