@@ -11,6 +11,8 @@ Run powershell, command prompt, or terminal as administrator
 4. Create a virtual enviroment python -m venv env
 5. Run Virtual enviroment source env/bin/activate (Mac/Linux) .\env\Scripts\activate (Windows)
 6. Install dependencies: pip install -r requirements.txt
+7. 
+If access is still denied and the virtual enviroment is unable to be activated simply run pip install pytest in the root directory Rana_Taha as thats it is the only dependency.
 
 
 ## Usage
