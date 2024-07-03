@@ -23,7 +23,7 @@ Availability is listed as days Monday - Friday described in military time in the
 The image below is a visual representation of the selection algorithm after matching scores are calculated:
 
 <a>
-<img src="https://cdn.discordapp.com/attachments/930093041329528833/1256789926977077278/image.png?ex=66820c54&is=6680bad4&hm=02850fcb3c92bc981129f4b854deec3675fd1f702cf217e11e84802b260152a0&"
+<img src="https://i.imgur.com/DJsDnT9.jpeg"
 alt="visual" width="600" height = "300" border = "10"/>
 </a>
 
