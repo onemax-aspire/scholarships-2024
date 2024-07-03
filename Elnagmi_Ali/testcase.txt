@@ -1,0 +1,234 @@
+Brenda
+Data Scientist
+Algorithms
+Computer Networks
+Cyber Security
+Reading
+Painting
+Hiking
+10 12
+9 13
+8 14
+9 12
+10 18
+Anna
+IOS Developer
+Operating Systems
+Machine Learning
+Artificial Intelligence
+Reading
+Cycling
+Hiking
+10 13
+8 14
+7 11
+9 16
+9 17
+Sarah
+Data Scientist
+Cyber Security
+Machine Learning
+Artificial Intelligence
+Gardening
+Cooking
+Traveling
+10 15
+8 13
+9 18
+8 11
+7 16
+Linda
+Data Scientist
+Computer Networks
+Cyber Security
+Databases
+Traveling
+Photography
+Reading
+10 18
+10 16
+8 9
+8 10
+9 17
+Mustafa
+Computer Engineer
+Operating Systems
+Computer Networks
+Cyber Security
+Gardening
+Cycling
+Hiking
+10 18
+10 11
+8 13
+10 16
+9 14
+Gary
+Data Scientist
+Data Structures
+Algorithms
+Operating Systems
+Gardening
+Cycling
+Photography
+9 18
+9 13
+8 10
+10 15
+8 10
+Pamela
+Data Scientist
+Artificial Intelligence
+Operating Systems
+Data Structures
+Traveling
+Hiking
+Cooking
+10 12
+7 18
+7 10
+9 17
+7 12
+Ashley
+Computer Engineer
+Cyber Security
+Data Structures
+Computer Networks
+Cooking
+Photography
+Reading
+7 10
+7 17
+7 16
+10 15
+7 17
+Jeffrey
+Computer Engineer
+Cyber Security
+Artificial Intelligence
+Databases
+Painting
+Hiking
+Photography
+8 15
+10 11
+9 16
+9 11
+7 8
+Matthew
+Data Scientist
+Cyber Security
+Data Structures
+Algorithms
+Cooking
+Painting
+Gardening
+10 11
+9 14
+7 15
+8 18
+7 14
+Nicole
+Data Scientist
+Computer Networks
+Machine Learning
+Databases
+Traveling
+Reading
+Photography
+10 13
+8 10
+8 10
+8 13
+8 15
+Richard
+Data Scientist
+Machine Learning
+Computer Networks
+Artificial Intelligence
+Painting
+Hiking
+Cycling
+9 17
+7 17
+9 13
+7 9
+8 13
+George
+Web Developer
+Databases
+Machine Learning
+Cyber Security
+Cycling
+Reading
+Photography
+10 16
+7 16
+9 13
+7 10
+7 15
+Amy
+Computer Engineer
+Cyber Security
+Computer Networks
+Data Structures
+Photography
+Hiking
+Reading
+7 9
+8 10
+10 11
+10 13
+8 18
+Karen
+Data Scientist
+Computer Networks
+Data Structures
+Cyber Security
+Gardening
+Cooking
+Hiking
+9 16
+10 16
+10 11
+9 12
+8 10
+Jonathan
+Computer Engineer
+Computer Networks
+Algorithms
+Artificial Intelligence
+Painting
+Photography
+Cycling
+8 12
+10 11
+7 14
+9 11
+7 14
+Scott
+Web Developer
+Machine Learning
+Cyber Security
+Computer Networks
+Gardening
+Cooking
+Cycling
+7 15
+8 16
+9 11
+9 17
+8 17
+Patricia
+Computer Engineer
+Operating Systems
+Computer Networks
+Machine Learning
+Gardening
+Cycling
+Painting
+8 14
+9 15
+9 17
+10 17
+7 9
